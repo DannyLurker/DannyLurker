@@ -2,7 +2,7 @@
 
 I’m Danny — a high school student passionate about web development.
 
-- 🔭 Currently working on [Student-Info-App](https://github.com/DannyLurker/student-info-app-NextJS) & [E-cashier](https://github.com/DannyLurker/e-cashier-nextjs), a web app to manage student data like attendance and grades.  
+- 🔭 Currently working on [Student-Info-App](https://github.com/DannyLurker/student-info-app-NextJS) & [IMS](https://github.com/DannyLurker/internal-management-system), a web app to manage student data like attendance and grades.  
 - 🌱 Built a pre-order app for my school bazaar — check it out [here](https://amba-to-buy.vercel.app/).  
 - 👯 Open to collaborate on beginner-friendly web projects, using Node.js and Nextjs.  
 - 🤔 Learning to write cleaner backend code and build better project structure.  
